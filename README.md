@@ -5,3 +5,5 @@ Since it's in a beta state, it's likely that lots of stuff is gonna change espec
 Dependencies:
 B9PartSwitch
 ModuleManager
+
+Kerbal Kargo is licensed under CC0 which you can find here https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
