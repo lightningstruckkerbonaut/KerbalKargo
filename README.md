@@ -6,4 +6,5 @@ Dependencies:
 B9PartSwitch,
 ModuleManager
 Download instructions: Download it as a zip, it should show up as KerbalKargo-main.zip, open that and there should be KerbalKargo-main. Open it and there should be a folder named KerbalKargo, the license and this README. All you need is KerbalKargo. You can copy it or move it inside your GameData folder in your KSP installation. Then just run the game as normal. Make sure you have the dependencies installed though.
-Kerbal Kargo is licensed under CC-BY 4.0 which you can find here: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+Kerbal Kargo © 2026 by lightningstruckkerbonaut is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
