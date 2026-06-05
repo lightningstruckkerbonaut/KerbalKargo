@@ -5,6 +5,6 @@ Since it's in a WIP state, it's likely that lots of stuff is gonna change especi
 Dependencies:
 B9PartSwitch,
 ModuleManager
-Download instructions: Download it as a zip, it should show up as KerbalKargo-main.zip (or KerbalKargo-0.1-alpha if you download it from the release), open that and in there should be KerbalKargo-main (or KerbalKargo-0.1-alpha). Open it and there should be a folder named KerbalKargo, the license and this README. All you need is KerbalKargo. You can either copy it or move it inside your GameData folder in your KSP installation. Then just run the game as normal, but make sure you have the dependencies installed.
+Download instructions: Download it as a zip, it should show up as KerbalKargo-main.zip (or KerbalKargo-version-alpha if you download it from the release), open that and in there should be KerbalKargo-main (or KerbalKargo-version-alpha). Open it and there should be a folder named KerbalKargo, the license and this README. All you need is KerbalKargo. You can either copy it or move it inside your GameData folder in your KSP installation. Then just run the game as normal, but make sure you have the dependencies installed.
 
 Kerbal Kargo © 2026 by lightningstruckkerbonaut is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
